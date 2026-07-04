@@ -4,7 +4,7 @@ export const siteConfig = {
   name: "Varad Mhetar",
   description:
     "AI Engineer & Researcher building intelligent systems at the intersection of deep learning, reinforcement learning, and scientific computing.",
-  url: "https://arjunmehta.dev",
+  url: "https://vmhetar-portfolio-p9n7e2o20-vmhetars-projects.vercel.app",
   ogImage: "/og-image.png",
 };
 
