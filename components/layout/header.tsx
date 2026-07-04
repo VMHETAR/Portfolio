@@ -18,7 +18,7 @@ export function Header() {
           href="/"
           className="text-lg font-semibold tracking-tight transition-opacity hover:opacity-80"
         >
-          AM<span className="text-primary">.</span>
+          VM<span className="text-primary">.</span>
         </Link>
 
         <nav className="hidden items-center gap-1 md:flex" aria-label="Main navigation">
